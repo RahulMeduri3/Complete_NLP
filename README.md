@@ -9,10 +9,10 @@ The concepts listed below are explained with code in the files present in src fo
 6. DTM (Document Term Matrix).
 7. TF-IDF.
 8. Word Embeddings
-  i. Word2Vec (Customr Trained)
-    a. CBOW.
-    b. skipgram (Subsampling and Negative Sampling).
-  ii. Pre-trained (GoogleNews).
+	1. Word2Vec (Customr Trained)
+		a. CBOW.
+		b. skipgram (Subsampling and Negative Sampling).
+	2. Pre-trained (GoogleNews)
 9. Text Classification using Pre-trained Word Embeddings.
 10. RNN.
 11. Text Generation using LSTM.
